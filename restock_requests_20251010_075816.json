@@ -3,7 +3,7 @@
     "item_id": "Milk001",
     "location": [8, 6],
     "urgency": 0.72,
-    "quantity": 0,
+    "quantity": 4,
     "predicted_stockout_in_days": 11,
     "remaining_stock": 83,
     "predicted_demand_next_5_days": 36.75,
@@ -200,3 +200,4 @@
     "final_restock_decision": true
   }
 ]
+
